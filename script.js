@@ -13,7 +13,7 @@ function getRandomSize() {
 }
 
 function getRandomNr() {
-    return Math.floor(Math.random() * 10) + 300;
+    return Math.floor(Math.random() * 15) + 300;
 }
 
 //Lorem picsum: https://picsum.photos/ 
